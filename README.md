@@ -3,8 +3,8 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/MVSSTON/VimeAPI.svg?logo=lgtm&logoWidth=18&style=for-the-badge)](https://lgtm.com/projects/g/MVSSTON/VimeAPI/alerts/)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/MVSSTON/VimeAPI/blob/main/LICENSE)
 
-# VimeWorld API (Java) [Проект устарел, более не обновляется, репозитории неактивны]
-Библиотека для упрощения работы с VimeWorld API.
+# VimeWorld API (Java)
+*Проект устарел, более не обновляется, репозиторий (mstn.me) так-же неактивен*
 
 ## Примечание
 Библиотека может быть и будет становиться лучше. Автор ждёт ваших вопросов в разделе "Issues".
